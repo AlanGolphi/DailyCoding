@@ -1,10 +1,9 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-07-18 17:49:47
- * @LastEditTime: 2020-07-18 18:01:10
+ * @LastEditTime: 2020-07-18 18:17:10
  */
-class Solution
-{
+class Solution {
 public:
     int ClimbStairs(int n)
     {
@@ -14,8 +13,7 @@ public:
         if (n >= 2)
             stairs[2] = 2;
 
-        for (int i = 3; i <= n; i++)
-        {
+        for (int i = 3; i <= n; i++) {
             stairs[i] = stairs[i - 1] + stairs[i - 2];
         }
         return stairs[n];
