@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-07-18 16:56:16
- * @LastEditTime: 2020-07-18 18:16:59
+ * @LastEditTime: 2020-07-20 16:44:15
  */
 class Solution {
 public:
@@ -20,3 +20,5 @@ public:
         }
     }
 };
+//双指针法，i 和 j 初始是分别是数组的两端
+//求 water 时，取数组里较小的数，之后每次把较大的赋值给 mos
