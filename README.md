@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-07-27 11:23:57
+ * @LastEditTime: 2020-07-28 13:48:04
 -->
 
 # DailyCoding
@@ -13,6 +13,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./sourceFile/Cpp/11_ContainerWithMostWater.cpp)                                                             | medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                           | [Java](./sourceFile/Java/15_ThreeSum.java)                                                                        | medium     |
 | 24  | [Swap Nodes In pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)             | [Java](./sourceFile/Java/24_SwapNodesInPairs.java)                                                                | medium     |
+| 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)   | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                         | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                 | [Java](./sourceFile/Java/141_LinkedListCycle.java)                                                                | easy       |
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)        | [Java](./sourceFile/Java/142_LinkedListCycleII.java)                                                              | medium     |
