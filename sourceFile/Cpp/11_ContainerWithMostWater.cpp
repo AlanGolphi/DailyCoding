@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-07-18 16:56:16
- * @LastEditTime: 2020-07-20 16:44:15
+ * @LastEditTime: 2020-08-16 15:51:47
  */
 class Solution {
 public:
@@ -18,6 +18,7 @@ public:
             } else
                 j--;
         }
+        return mos;
     }
 };
 //双指针法，i 和 j 初始是分别是数组的两端
