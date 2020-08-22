@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-08-22 15:24:38
+ * @LastEditTime: 2020-08-22 15:29:18
 -->
 
 # DailyCoding
@@ -10,7 +10,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 
 | #   | Title                                                                                                     | Solution                                                                                                          | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [Java](.sourceFile/Java/1_TwoSum.java)                                                                            | easy       |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [Java](./sourceFile/Java/1_TwoSum.java)                                                                           | easy       |
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                     | [C++](./sourceFile/Cpp/11_ContainerWithMostWater.cpp)                                                             | medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                               | [Java](./sourceFile/Java/15_ThreeSum.java)                                                                        | medium     |
 | 20  | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                  | [Java](./sourceFile/Java/20_ValidParentheses.java)                                                                | easy       |
