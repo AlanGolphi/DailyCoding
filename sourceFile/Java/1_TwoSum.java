@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-08-22 15:11:42
- * @LastEditTime: 2020-08-22 15:22:12
+ * @LastEditTime: 2020-08-23 11:06:30
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -20,4 +20,4 @@ class Solution {
 }
 //哈希表法
 //利用 HashMap 的特性，将数组内的数逐个检查并放进 HashMap 中
-//定义 result 数组来存放查找结果
+//定义 result 数组来存放查找结果。
