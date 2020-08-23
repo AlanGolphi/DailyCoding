@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-08-22 15:29:18
+ * @LastEditTime: 2020-08-23 21:07:47
 -->
 
 # DailyCoding
@@ -14,6 +14,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                     | [C++](./sourceFile/Cpp/11_ContainerWithMostWater.cpp)                                                             | medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                               | [Java](./sourceFile/Java/15_ThreeSum.java)                                                                        | medium     |
 | 20  | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                  | [Java](./sourceFile/Java/20_ValidParentheses.java)                                                                | easy       |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Java](./sorceFile/Java/21_MergeTwoLists.java)                                                                    | easy       |
 | 24  | [Swap Nodes In pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [Java](./sourceFile/Java/24_SwapNodesInPairs.java)                                                                | medium     |
 | 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 26  | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./sourceFile/Java/26_RemoveDuplicates.java)                                                                | easy       |
