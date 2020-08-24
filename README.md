@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-08-24 18:48:45
+ * @LastEditTime: 2020-08-24 18:50:34
 -->
 
 # DailyCoding
@@ -22,6 +22,6 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                                             | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Java](./sourceFile/Java/141_LinkedListCycle.java)                                                                | easy       |
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                            | [Java](./sourceFile/Java/142_LinkedListCycleII.java)                                                              | medium     |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](.sourceFile/Java/189_RotateArray.java)                                                                     | easy       |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](./sourceFile/Java/189_RotateArray.java)                                                                    | easy       |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                 | [Java_1](./sourceFile/Java/206_ReverseLinkedList_1.java),[Java_2](./sourceFile/Java/206_ReverseLinkedList_2.java) | easy       |
 | 283 | [MoveZeros](https://leetcode.com/problems/move-zeroes/)                                                   | [Java](./sourceFile/Java/283_MoveZeros.java)                                                                      | esay       |
