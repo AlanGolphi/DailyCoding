@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-08-26 10:43:47
+ * @LastEditTime: 2020-08-31 22:05:34
 -->
 
 # DailyCoding
@@ -19,6 +19,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 26  | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./sourceFile/Java/26_RemoveDuplicates.java)                                                                | easy       |
 | 33  | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)           | [Java](./sourceFile/Java/33_SearchRotatedSorted.java)                                                             | medium     |
+| 46  | [Permutation](https://leetcode.com/problems/permutations/)                                                | [Java](./sourceFile/Java/46_Permutations.java)                                                                    | medium     |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [Java](./sourceFile/Java/66_PlusOne.java)                                                                         | easy       |
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                                             | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Java](./sourceFile/Java/141_LinkedListCycle.java)                                                                | easy       |
