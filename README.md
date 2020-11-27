@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2020-11-26 14:34:39
+ * @LastEditTime: 2020-11-27 20:17:19
 -->
 
 # DailyCoding
@@ -13,6 +13,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [Java](./sourceFile/Java/1_TwoSum.java)                                                                           | easy       |
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                     | [C++](./sourceFile/Cpp/11_ContainerWithMostWater.cpp)                                                             | medium     |
 | 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                               | [Java](./sourceFile/Java/15_ThreeSum.java)                                                                        | medium     |
+|17| [Letter Combinations of phone numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Js](./sourceFile/Js/17_LetterCombinations.js)|medium|
 | 20  | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                  | [Java](./sourceFile/Java/20_ValidParentheses.java)                                                                | easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Java](./sourceFile/Java/21_MergeTwoLists.java)                                                                   | easy       |
 |22|[Generate Parenthese](https://leetcode.com/problems/generate-parentheses/)|[Js](./sourceFile/Js/22_GenerParentsis.js)|mediun|
