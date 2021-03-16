@@ -1,7 +1,10 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-08-22 15:11:42
- * @LastEditTime: 2020-08-23 11:06:30
+ * @LastEditTime: 2021-03-16 08:44:21
+ * @Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+ * @ You may assume that each input would have exactly one solution, and you may not use the same element twice.
+ * @You can return the answer in any order.
  */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -18,6 +21,6 @@ class Solution {
         return result;
     }
 }
-//哈希表法
-//利用 HashMap 的特性，将数组内的数逐个检查并放进 HashMap 中
-//定义 result 数组来存放查找结果。
+// 哈希表法
+// 利用 HashMap 的特性，将数组内的数逐个检查并放进 HashMap 中
+// 定义 result 数组来存放查找结果。
