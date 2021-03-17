@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-03-17 10:46:26
+ * @LastEditTime: 2021-03-17 10:52:45
 -->
 
 # DailyCoding
@@ -21,7 +21,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 26  | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./sourceFile/Java/26_RemoveDuplicates.java)                                                                | easy       |
 | 33  | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)           | [Java](./sourceFile/Java/33_SearchRotatedSorted.java)                                                             | medium     |
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./sourceFile/Java/35_SearchInsertPosition.java), [Js](./souceFile/Js/35_SearchInsertPosition.js) |easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./sourceFile/Java/35_SearchInsertPosition.java), [Js](./sourceFile/Js/35_SearchInsertPosition.js) |easy|
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                               | [Java](./sourceFile/Java/46_Permutations.java)                                                                    | medium     |
 | 47  | [Permutations-ii](https://leetcode.com/problems/permutations-ii/)                                         | [Java](./sourceFile/Java/47_PermuteUnique.java)                                                                   | medium     |
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [Java](./sourceFile/Java/66_PlusOne.java)                                                                         | easy       |
