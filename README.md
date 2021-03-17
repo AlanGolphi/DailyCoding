@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-03-17 10:52:45
+ * @LastEditTime: 2021-03-17 16:38:01
 -->
 
 # DailyCoding
@@ -33,4 +33,5 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](./sourceFile/Java/189_RotateArray.java)                                                                    | easy       |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                 | [Java_1](./sourceFile/Java/206_ReverseLinkedList_1.java),[Java_2](./sourceFile/Java/206_ReverseLinkedList_2.java) | easy       |
 |215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Js](./sourceFile/Js/215_findKthLargest.js)|medium|
+|275|[H-Index-II](https://leetcode.com/problems/h-index-ii/)|[Java](./sourceFile/Java/275_H-index-II.java), [Js](./sourceFile/Js/275_H-index-II.js)|medium|
 | 283 | [MoveZeros](https://leetcode.com/problems/move-zeroes/)                                                   | [Java](./sourceFile/Java/283_MoveZeros.java)                                                                      | esay       |
