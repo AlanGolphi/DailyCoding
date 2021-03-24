@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-03-20 11:21:31
+ * @LastEditTime: 2021-03-24 09:19:22
 -->
 
 # DailyCoding
@@ -24,6 +24,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./sourceFile/Java/35_SearchInsertPosition.java), [Js](./sourceFile/Js/35_SearchInsertPosition.js) |easy|Binary Search|
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                               | [Java](./sourceFile/Java/46_Permutations.java)                                                                    | medium     |
 | 47  | [Permutations-ii](https://leetcode.com/problems/permutations-ii/)                                         | [Java](./sourceFile/Java/47_PermuteUnique.java)                                                                   | medium     |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./sourceFile/Java/56_MergeIntervals.java)|medium|Sort in 2d Array|
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [Java](./sourceFile/Java/66_PlusOne.java)                                                                         | easy       |
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                                             | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 77  | [Combinationa](https://leetcode.com/problems/combinations/)                                               | [Java](./sourceFile/Java/77_Combinations.java)                                                                    | medium     |
@@ -36,3 +37,4 @@ This is the repository records my Algorithms &amp; Data structures learning with
 |275|[H-Index-II](https://leetcode.com/problems/h-index-ii/)|[Java](./sourceFile/Java/275_H-index-II.java), [Js](./sourceFile/Js/275_H-index-II.js)|medium|Binary Search|
 | 283 | [MoveZeros](https://leetcode.com/problems/move-zeroes/)                                                   | [Java](./sourceFile/Java/283_MoveZeros.java)                                                                      | esay       |
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./sourceFile/Java/540_singleNonDuplicate.java), [Js](./sourceFile/Js/540_singleNonDuplicate.js)|medium|Binary Search|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./sourceFile/Java/1528_ShuffleString.java), [Js](./sourceFile/Js/1528_ShuffleString.js)|easy|Sort in Array & String|
