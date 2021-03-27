@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-03-24 18:04:19
+ * @LastEditTime: 2021-03-28 00:50:39
 -->
 
 # DailyCoding
@@ -36,6 +36,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 |215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Js](./sourceFile/Js/215_findKthLargest.js)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./sourceFile/Java/242_ValidAnagram.java), [Js](./sourceFile/Js/242_ValidAnagram.js)|easy|Sort in String|
 |275|[H-Index-II](https://leetcode.com/problems/h-index-ii/)|[Java](./sourceFile/Java/275_H-index-II.java), [Js](./sourceFile/Js/275_H-index-II.js)|medium|Binary Search|
-| 283 | [MoveZeros](https://leetcode.com/problems/move-zeroes/)                                                   | [Java](./sourceFile/Java/283_MoveZeros.java)                                                                      | esay       |
+| 283 | [MoveZeros](https://leetcode.com/problems/move-zeroes/)                                                   | [Java](./sourceFile/Java/283_MoveZeros.java), [Js](./sourceFile/Js/283_MoveZeros.js)                                                                      | easy       |
+|344|[ReverseString](https://leetcode.com/problems/reverse-string/)|[Js](./sourceFile/Js/344_ReverseString.js)|easy|Double Pointers|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./sourceFile/Java/540_singleNonDuplicate.java), [Js](./sourceFile/Js/540_singleNonDuplicate.js)|medium|Binary Search|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./sourceFile/Java/1528_ShuffleString.java), [Js](./sourceFile/Js/1528_ShuffleString.js)|easy|Sort in Array & String|
