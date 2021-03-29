@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-03-28 00:50:39
+ * @LastEditTime: 2021-03-29 19:42:12
 -->
 
 # DailyCoding
@@ -12,7 +12,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | --- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [Java](./sourceFile/Java/1_TwoSum.java) , [Js](./sourceFile/Js/1_twoSum.js)                                                                          | easy       |HashMap|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                     | [C++](./sourceFile/Cpp/11_ContainerWithMostWater.cpp)                                                             | medium     |
-| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                               | [Java](./sourceFile/Java/15_ThreeSum.java)                                                                        | medium     |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                               | [Java](./sourceFile/Java/15_ThreeSum.java), [Js](./sourceFile/Js/15_ThreeSum.js)|medium|Double Pointers|
 |17| [Letter Combinations of phone numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Js](./sourceFile/Js/17_LetterCombinations.js)|medium|
 | 20  | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                  | [Java](./sourceFile/Java/20_ValidParentheses.java)                                                                | easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Java](./sourceFile/Java/21_MergeTwoLists.java)                                                                   | easy       |
@@ -20,6 +20,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 24  | [Swap Nodes In pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [Java](./sourceFile/Java/24_SwapNodesInPairs.java)                                                                | medium     |
 | 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 26  | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./sourceFile/Java/26_RemoveDuplicates.java)                                                                | easy       |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Js](./sourceFile/Js/27_RemoveElements.js)|easy|Double Pointers|
 | 33  | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)           | [Java](./sourceFile/Java/33_SearchRotatedSorted.java)                                                             | medium     |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./sourceFile/Java/35_SearchInsertPosition.java), [Js](./sourceFile/Js/35_SearchInsertPosition.js) |easy|Binary Search|
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                               | [Java](./sourceFile/Java/46_Permutations.java)                                                                    | medium     |
@@ -29,7 +30,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                                             | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 77  | [Combinationa](https://leetcode.com/problems/combinations/)                                               | [Java](./sourceFile/Java/77_Combinations.java)                                                                    | medium     |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Java](./sourceFile/Java/101_Symmetric_Tree.java)                                                                 | easy       |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Java](./sourceFile/Java/141_LinkedListCycle.java)                                                                | easy       |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Java](./sourceFile/Java/141_LinkedListCycle.java), [Js](./sourceFile/Js/141_LinkedListCycle.js)                                                                | easy       |Double Pointers|
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                            | [Java](./sourceFile/Java/142_LinkedListCycleII.java)                                                              | medium     |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](./sourceFile/Java/189_RotateArray.java)                                                                    | easy       |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                 | [Java_1](./sourceFile/Java/206_ReverseLinkedList_1.java),[Java_2](./sourceFile/Java/206_ReverseLinkedList_2.java) | easy       |
