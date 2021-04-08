@@ -1,8 +1,3 @@
-<!--
- * @Author: AlanGolphi
- * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-04-08 15:10:27
--->
 
 # DailyCoding
 
@@ -17,7 +12,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 20  | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)                                  | [Java](./sourceFile/Java/20_ValidParentheses.java)                                                                | easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Java](./sourceFile/Java/21_MergeTwoLists.java)                                                                   | easy       |
 |22|[Generate Parenthese](https://leetcode.com/problems/generate-parentheses/)|[Js](./sourceFile/Js/22_GenerParentsis.js)|mediun|
-| 24  | [Swap Nodes In pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [Java](./sourceFile/Java/24_SwapNodesInPairs.java)                                                                | medium     |
+| 24  | [Swap Nodes In pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [Java](./sourceFile/Java/24_SwapNodesInPairs.java) ,[Js](./sourceFile/Js/24_SwapNodesInPairs.js)                                                               | medium     |LinkedList & Three Pointers|
 | 25  | [Reverse Nodes In k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                       | [Java](./sourceFile/Java/25_ReverseNodesInK-Group.java)                                                           | hard       |
 | 26  | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./sourceFile/Java/26_RemoveDuplicates.java)                                                                | easy       |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Js](./sourceFile/Js/27_RemoveElements.js)|easy|Double Pointers|
