@@ -1,7 +1,7 @@
 <!--
  * @Author: AlanGolphi
  * @Date: 2020-07-11 22:25:43
- * @LastEditTime: 2021-04-07 15:22:09
+ * @LastEditTime: 2021-04-08 15:10:27
 -->
 
 # DailyCoding
@@ -33,7 +33,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Java](./sourceFile/Java/101_Symmetric_Tree.java)                                                                 | easy       |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Js](./sourceFile/Js/102_BinaryTreeLevelorderTraversal.js)|medium|Binary Tree|
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Java](./sourceFile/Java/141_LinkedListCycle.java), [Js](./sourceFile/Js/141_LinkedListCycle.js)                                                                | easy       |Double Pointers|
-| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                            | [Java](./sourceFile/Java/142_LinkedListCycleII.java)                                                              | medium     |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                            | [Java](./sourceFile/Java/142_LinkedListCycleII.java), [Js](./sourceFile/Js/142_LinkedListCycleII.js)                                                              | medium     |Double Pointer|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Js](./sourceFile/Js/144_BinaryTreePreorderTraversal.js)|medium|Binary Tree|
 |145|[Binaty Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Js](./sourceFile/Js/145_BinaryTreePostorderTraversal.js)|medium|Binary Tree|
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](./sourceFile/Java/189_RotateArray.java)                                                                    | easy       |

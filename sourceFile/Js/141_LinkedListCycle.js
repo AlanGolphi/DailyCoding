@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2021-03-29 18:18:46
- * @LastEditTime: 2021-03-29 18:25:43
+ * @LastEditTime: 2021-04-08 14:42:30
  */
 /**
  * Definition for singly-linked list.
@@ -24,7 +24,7 @@ var hasCycle = function(nums) {
 
     let slow = head;
     let fast = head.next;// 不会刚开始就碰上
-    while (head && head.next && slow !+ fast) {
+    while (head && head.next && slow != fast) {
         slow = slow.next;
         fast = fast.next.next;
         //慢指针一次一跳，快指针一次两跳
