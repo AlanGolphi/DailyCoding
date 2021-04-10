@@ -1,3 +1,8 @@
+<!--
+ * @Author: AlanGolphi
+ * @Date: 2020-07-11 22:25:43
+ * @LastEditTime: 2021-04-10 20:03:45
+-->
 
 # DailyCoding
 
@@ -24,6 +29,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 66  | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [Java](./sourceFile/Java/66_PlusOne.java)                                                                         | easy       |
 | 70  | [ClimbStairs](https://leetcode.com/problems/climbing-stairs/)                                             | [C++](./sourceFile/Cpp/70_ClimbStairs.cpp)                                                                        | easy       |
 | 77  | [Combinationa](https://leetcode.com/problems/combinations/)                                               | [Java](./sourceFile/Java/77_Combinations.java)                                                                    | medium     |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Js](./sourceFile/Js/88_MergeSortedArray.js)|easy|Array & Double Pointers|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Js](./sourceFile/Js/94_BinaryTreeInorderTraversal.js)|medium|Binary Tree|
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Java](./sourceFile/Java/101_Symmetric_Tree.java)                                                                 | easy       |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Js](./sourceFile/Js/102_BinaryTreeLevelorderTraversal.js)|medium|Binary Tree|
