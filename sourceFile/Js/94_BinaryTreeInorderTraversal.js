@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2021-04-07 14:40:16
- * @LastEditTime: 2021-04-07 15:01:43
+ * @LastEditTime: 2021-04-17 11:30:17
  */
 /**
  * Definition for a binary tree node.
@@ -16,7 +16,7 @@
  * @return {number[]}
  */
 
-//二叉树中序遍历
+//二叉树中序遍历，递归做法太简单
 let inorderTraversal = function(root) {
     if (!root) {
         return [];
@@ -34,3 +34,20 @@ let recur = function(root, arr) {
     arr.push(root.val);//这句放中间就是中序遍历
     recur(root.right, arr);
 };
+
+//迭代做法，手动维护栈
+let inorderTraversal = function(root) {
+    if (!root) return [];
+    let cur = root, res = [], stack = [];
+
+    while (cur || stack.length) {
+        while (cur) {
+            stack.push(cur);
+            cur = cur.left;
+        }
+        let temp = stack.pop();
+        res.push(temp.val);
+        cur = temp.right;
+    }
+    return res;
+}

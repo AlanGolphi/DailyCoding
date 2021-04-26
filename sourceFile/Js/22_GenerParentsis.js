@@ -1,8 +1,11 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2020-11-26 14:23:48
- * @LastEditTime: 2020-11-26 14:32:28
+ * @LastEditTime: 2021-04-21 20:38:58
  */
+//Input: n = 3
+//Output: ["((()))","(()())","(())()","()(())","()()()"]
+
 const generateParenthesis = function(n) {
     const res = [];
 
