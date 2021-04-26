@@ -17,6 +17,7 @@
  */
 
 //二叉树前序遍历
+//递归做法，太简单
 let preorderTraversal = function(root) {
     if (!root) {
         return [];
@@ -34,3 +35,20 @@ let recur = function(root, arr) {
     recur(root.left, arr);
     recur(root.right, arr);
 };
+
+//迭代做法，难度正常
+let preorderTraversal = function(root) {
+    if (!root) return [];
+    let cur = root, res = [], stack = [];
+
+    while (cur || stack.length) {
+        while (cur) {
+            res.push(cur.val);
+            stack.push(cur);
+            cur = cur.left;
+        }
+        cur = stack.pop();
+        cur = cur.right;
+    }
+    return res;
+}

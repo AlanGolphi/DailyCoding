@@ -1,7 +1,7 @@
 /*
  * @Author: AlanGolphi
  * @Date: 2021-03-29 18:05:48
- * @LastEditTime: 2021-03-29 18:17:32
+ * @LastEditTime: 2021-04-21 19:50:50
  */
 // 给一个数组，查找数组中是否存在三个元素相加等于0，存在的话就组成一个数组，最后返回数组的数组
 
@@ -17,9 +17,9 @@ function threeSum(nums) {
     nums.sort((a,b) => a - b);//优雅的升序排序算法
     for (let i = 0, len = nums.length; i < len; i++) {
         if (nums[i] == nums[i - 1]) {
-            continue;
+            continue;//保证最后结果不会输出重复项
         }
-        let target = -nums[i];
+        let target = -nums[i];//求三数之和=n，则target = n - nums[i];
         let left = i + 1;
         let right = len - 1;
         while (left < right) {
