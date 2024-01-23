@@ -38,6 +38,7 @@ This is the repository records my Algorithms &amp; Data structures learning with
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                            | [Java](./sourceFile/Java/142_LinkedListCycleII.java), [Js](./sourceFile/Js/142_LinkedListCycleII.js)                                                              | medium     |Double Pointer|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Js](./sourceFile/Js/144_BinaryTreePreorderTraversal.js)|medium|Binary Tree|
 |145|[Binaty Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Js](./sourceFile/Js/145_BinaryTreePostorderTraversal.js)|medium|Binary Tree|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Ts](./sourceFile/typescript/169_MajorityElement.ts)|easy||
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | [Java](./sourceFile/Java/189_RotateArray.java)                                                                    | easy       |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                 | [Java_1](./sourceFile/Java/206_ReverseLinkedList_1.java),[Java_2](./sourceFile/Java/206_ReverseLinkedList_2.java) | easy       |
 |215| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Js](./sourceFile/Js/215_findKthLargest.js)|medium|
