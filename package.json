@@ -1,0 +1,20 @@
+{
+  "name": "dailycoding",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: AlanGolphi  * @Date: 2020-07-11 22:25:43  * @LastEditTime: 2021-04-10 20:03:45 -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.27",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint": "^8.57.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
