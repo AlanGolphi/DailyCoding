@@ -1,7 +1,8 @@
-// 给定一个数组，列出全排列所有组合
+// Given an array, list all combinations of the full permutation
 
 const permute = <T extends number | string>(nums: T[]): T[][] => {
   const len = nums.length;
+  if (len <= 1) return [nums];
   const cur: T[] = [];
   const res: T[][] = [];
   const visited = {} as Record<T, number>;
