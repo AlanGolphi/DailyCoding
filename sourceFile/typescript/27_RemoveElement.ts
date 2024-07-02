@@ -22,10 +22,18 @@ const nums2 = [0, 1, 2, 2, 3, 0, 4, 2];
 
 excuteWithTimeAndMemory(() => {
   console.log(removeElement(nums1, 3));
-  console.log('nums1', nums1);
+  console.log("nums1", nums1);
 }, "remove nums1");
 
+function removeElement1(nums: number[], val: number): number {
+  const tempNums = nums.filter((it) => it !== val);
+  for (let i = 0; i < tempNums.length; i++) {
+    nums[i] = tempNums[i];
+  }
+  return tempNums.length;
+}
+
 excuteWithTimeAndMemory(() => {
-  console.log(removeElement(nums2, 2));
-  console.log('nums2', nums2);
+  console.log(removeElement1(nums2, 2));
+  console.log("nums2", nums2);
 }, "remove nums2");
