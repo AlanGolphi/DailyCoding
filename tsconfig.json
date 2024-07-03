@@ -108,5 +108,6 @@
   },
   "exclude": [
     "./sourceFile/Js"
-  ]
+  ],
+  "ts-node": { "esm": true}
 }
