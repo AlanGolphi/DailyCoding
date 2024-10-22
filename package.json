@@ -1,7 +1,7 @@
 {
   "name": "dailycoding",
   "version": "1.0.0",
-  "description": "<!--  * @Author: AlanGolphi  * @Date: 2020-07-11 22:25:43  * @LastEditTime: 2021-04-10 20:03:45 -->",
+  "description": "Practice algorithm and data structure, start from @Date: 2020-07-11 22:25:43",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.14.9",
+    "@types/node": "^20.16.13",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
     "eslint": "^8.57.0",

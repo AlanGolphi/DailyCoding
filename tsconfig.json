@@ -106,8 +106,12 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
+  "include": [
+    "sourceFile/typescript/**/*"
+  ],
   "exclude": [
-    "./sourceFile/Js"
+    "./sourceFile/Js",
+    "node_modules"
   ],
   "ts-node": { "esm": true}
 }
