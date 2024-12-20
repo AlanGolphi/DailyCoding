@@ -36,3 +36,29 @@ export const createTreeFromArray = (arr: (number | null)[]) => {
   }
   return root;
 };
+
+export const logTreeInLevelOrder = (
+  root: TreeNode | null
+): (number | null)[] => {
+  if (!root) return [];
+  const queue: (TreeNode | null)[] = [root];
+  let result: (number | null)[] = [];
+  let stop = false;
+
+  while (queue.length && !stop) {
+    if (queue.every((it) => it === null)) {
+      stop = true;
+      break;
+    }
+    const node = queue.shift();
+    result.push(node?.val || null);
+    queue.push(node?.left || null);
+    queue.push(node?.right || null);
+  }
+
+  while (result.length > 0 && result[result.length - 1] === null) {
+    result.pop();
+  }
+
+  return result;
+};
