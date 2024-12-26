@@ -1,3 +1,5 @@
+import { TreeNode, createTreeFromArray } from "./models";
+
 // @algorithm @lc id=100 lang=typescript
 // @title same-tree
 // @test([1,2,3],[1,2,3])=true
@@ -23,7 +25,12 @@ function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
 
   return (
     p.val === q.val &&
-    isSameTree(q.left, q.left) &&
+    isSameTree(p.left, q.left) &&
     isSameTree(p.right, q.right)
   );
 }
+
+const tree1 = createTreeFromArray([2, 2, 2, null, 2, null, null, 2]);
+const tree2 = createTreeFromArray([2, 2, 2, 2, null, 2, null]);
+
+console.log(isSameTree(tree1, tree2));
