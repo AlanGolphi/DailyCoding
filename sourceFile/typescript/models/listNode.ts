@@ -1,7 +1,7 @@
 export class ListNode {
-  val: number | string;
+  val: number;
   next: ListNode | null;
-  constructor(val: number | string) {
+  constructor(val: number) {
     this.val = val;
     this.next = null;
   }
