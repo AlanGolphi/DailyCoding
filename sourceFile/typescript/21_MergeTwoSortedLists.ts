@@ -63,9 +63,7 @@ function mergeTwoSortedLists(list1: ListNode | null, list2: ListNode | null) {
   return head.next
 }
 
-const list1 = createList([1, 2, 4])
-const list2 = createList([1, 3, 4])
+const list1 = createList([1, 2, 4]);
+const list2 = createList([1, 3, 4]);
 
-logList(
-  mergeTwoSortedLists(list1, list2)
-)
+logList(mergeTwoSortedLists(list1, list2));

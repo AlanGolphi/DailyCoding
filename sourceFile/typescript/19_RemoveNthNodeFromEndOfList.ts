@@ -44,5 +44,5 @@ function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
 const testList = createList([1, 2, 3, 4, 5]);
 logList(removeNthFromEnd(testList, 2));
 
-// const testList1 = createList([1, 2]);
-// logList(removeNthFromEnd(testList1, 2));
+const testList1 = createList([1, 2]);
+logList(removeNthFromEnd(testList1, 2));
