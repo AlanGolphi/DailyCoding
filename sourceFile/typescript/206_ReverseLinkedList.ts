@@ -33,8 +33,24 @@ function reverseList(head: ListNode | null): ListNode | null {
   return cur;
 }
 
+function reverseList1(head: ListNode | null): ListNode | null {
+  if (!head || !head.next) return head;
+  let pre: ListNode | null = null;
+  let cur: ListNode | null = head;
+
+  while (cur && cur.next) {
+    const nextNode: ListNode | null = cur.next;
+    cur.next = pre;
+    pre = cur;
+    cur = nextNode;
+  }
+  cur.next = pre;
+
+  return cur;
+}
+
 // const testList = createList([1, 2, 3, 4, 5]);
 // logList(reverseList(testList));
 
-const testList1 = createList([1, 2]);
-logList(reverseList(testList1));
+const testList1 = createList([1, 2, 3, 4, 5]);
+logList(reverseList1(testList1));
