@@ -1,6 +1,6 @@
-import { ListNode, createList, logList } from "./models"
+import { ListNode, createList, logList } from "./models";
 
-// @algorithm @lc id=82 lang=typescript 
+// @algorithm @lc id=82 lang=typescript
 // @title remove-duplicates-from-sorted-list-ii
 // @test([1,2,3,3,4,4,5])=[1,2,5]
 // @test([1,1,1,2,3])=[2,3]
@@ -17,27 +17,28 @@ import { ListNode, createList, logList } from "./models"
  */
 
 function deleteDuplicates(head: ListNode | null): ListNode | null {
-  if (!head || !head.next) return head
+  if (!head || !head.next) return head;
 
-  const dummy = new ListNode(0)
-  dummy.next = head
-  let cur = dummy
+  const dummy = new ListNode(0);
+  dummy.next = head;
+  let cur = dummy;
 
   while (cur.next && cur.next?.next) {
     if (cur.next?.val === cur.next?.next?.val) {
-      const val = cur.next?.val
+      const val = cur.next?.val;
       while (cur.next && cur.next?.val === val) {
-        cur.next = cur.next.next
+        cur.next = cur.next.next;
       }
     } else {
-      cur = cur.next
+      cur = cur.next;
     }
   }
 
-  return dummy.next
-};
+  return dummy.next;
+}
 
-const l1 = createList([1, 2, 3, 3, 3, 3, 4, 4, 5])
-const l2 = createList([1, 1, 1, 2, 3])
+const l1 = createList([1, 2, 3, 3, 3, 3, 4, 4, 5]);
+const l2 = createList([1, 1, 1, 2, 3]);
 
-logList(deleteDuplicates(l1))
+logList(deleteDuplicates(l1));
+logList(deleteDuplicates(l2));
